@@ -1,0 +1,11 @@
+# Never commit capture files, malware samples or archives
+*.pcap
+*.pcapng
+*.exe
+*.dll
+*.zip
+*.7z
+*.evtx
+__pycache__/
+*.pyc
+.env
