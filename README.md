@@ -4,7 +4,7 @@ Hands-on practice in the core work of a Tier 1 SOC analyst: investigating suspic
 
 > **Honesty note:** All investigations use public datasets, public training platforms and synthetic sample data. No production or personal data is used. Where I use a training platform, I describe my method and do not publish challenge answers.
 
-## Contents
+# Contents
 
 | # | Project | Type | ATT&CK technique(s) | Report |
 |---|---------|------|---------------------|--------|
@@ -14,15 +14,15 @@ Hands-on practice in the core work of a Tier 1 SOC analyst: investigating suspic
 | 4 | Brute-force detector | Python detection tool | T1110 | [03-python-detection](03-python-detection/) |
 | 5 | KQL queries | Microsoft Sentinel | [ ] | [04-kql-sentinel](04-kql-sentinel/queries.md) |
 
-## Skills demonstrated
+# Skills demonstrated
 - Network traffic analysis (Wireshark)
 - Alert triage and incident reporting
 - MITRE ATT&CK mapping
 - Log analysis and detection scripting (Python)
 - KQL querying (Microsoft Sentinel)
 
-## How each investigation is structured
+# How each investigation is structured
 Every report follows [report-template.md](report-template.md): summary, affected hosts, timeline, indicators of compromise, ATT&CK mapping, severity and verdict, and recommended response.
 
-## Contact
-[LinkedIn link] | rbethrod@gmail.com
+#Contact
+LinkedIn | https://www.linkedin.com/jobs/view/4484205841/
